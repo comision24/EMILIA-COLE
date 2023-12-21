@@ -8,9 +8,12 @@
   width: 120px;
   font-size: 2rem;
   font-weight: lighter;
+  font-family: var(--familyWorkSans);
 }
 
 .home h1 {
+  font-family: var(--familyRaleway);
+  font-weight: var(--espesorTitulo700);
   font-size: 4rem;
   margin-top: 150px;
   background-color: rgba(255,255,255,.5);
@@ -22,5 +25,6 @@
   background-size: 71% 100%;
   background-repeat: no-repeat;
   background-position: right top;
+  background-attachment: fixed;
   margin: 0;
 }

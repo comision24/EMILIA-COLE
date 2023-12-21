@@ -1,0 +1,47 @@
+.contact {
+    margin: 5px;
+}
+
+.contact h1.title-contact {
+    font-size: 3rem;
+}
+
+
+/* ------ SECCIÓN MAPA --------- */
+.contact  section.map {}
+
+.contact  section.map h3{
+    font-family: var(--familyRaleway);
+    font-weight: var(--espesorTitulo700);
+}
+
+.contact  section.map iframe{}
+
+/* ------ SECCIÓN INFO CONTACTO --------- */
+.contact  section.info {}
+
+.contact  section.info h3 {
+    margin-top: 40px;
+    font-family: var(--familyRaleway);
+    font-weight: var(--espesorTitulo700);
+}
+
+.contact  section.info article {}
+
+.contact  section.info article h5 {
+    color: var(--colorVerdeTitulos);
+    margin: 20px 0 10px 0;
+}
+
+.contact  section.info article p {
+    color: gray;
+    margin: 0;
+}
+
+.contact  section.info article p strong {
+    color: black;
+}
+
+.contact  section.info article.last-article {
+  margin-bottom: 30px;
+}

@@ -1,0 +1,91 @@
+.music {
+  margin: 5px;
+}
+
+.music h1.title-music {
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
+/* -------- SUB-NAVEGACIÓN ---------- */
+.music nav.subnav-music {
+  padding-left: 5px;
+  margin: 0 0 100px 0;
+}
+
+.music nav.subnav-music h5 {}
+
+.music nav.subnav-music ul {
+  list-style: none;
+}
+
+.music nav.subnav-music ul li {}
+
+.music nav.subnav-music ul li a {}
+
+/* ------- SECTION ALBUM ----------- */
+.music section.album {}
+
+.music section.album h4 {
+  font-family: var(--familyRaleway);
+  font-weight: var(--espesorTitulo700);
+}
+
+.music section.album img {
+  width: 640px;
+}
+
+.music section.album ol {}
+
+.music section.album ol li {}
+
+.music section.album ol li a {}
+
+.music section.album a.go-top {
+    margin-bottom: 80px;
+    display: inline-block;
+}
+
+
+/* ------- SECTION ORGANIC ----------- */
+.music section.organic {}
+
+.music section.organic h4 {
+  font-family: var(--familyRaleway);
+  font-weight: var(--espesorTitulo700);
+}
+
+.music section.organic iframe {}
+
+.music section.organic div.contain-paragraph {
+    margin: 20px 0;
+}
+
+.music section.organic div.contain-paragraph p {
+  margin: 0;
+}
+
+.music section.organic a.go-top {
+    margin-bottom: 80px;
+    display: inline-block;
+}
+
+/* ------- SECTION STREET ----------- */
+.music section.street {}
+
+.music section.street h4 {
+  font-family: var(--familyRaleway);
+  font-weight: var(--espesorTitulo700);
+}
+
+.music section.street iframe {}
+
+.music section.street div.contain-paragraph {
+    margin: 20px 0;
+}
+
+.music section.street div.contain-paragraph p {
+  margin: 0;
+}
+
+.music section.street a.go-top {}

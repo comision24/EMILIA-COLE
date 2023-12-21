@@ -1,0 +1,29 @@
+:root {
+  --familyOpenSans: 'Open Sans', sans-serif;
+  --familyRaleway: 'Raleway', sans-serif;
+  --familyWorkSans: 'Work Sans', sans-serif;
+  --espesorTitulo400: 400;
+  --espesorTitulo700: 700;
+  --colorVerdeTitulos: #3d927b;
+}
+
+* {
+  font-family: var(--familyOpenSans);
+}
+
+body {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+
+
+
