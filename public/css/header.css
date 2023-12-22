@@ -1,7 +1,5 @@
 /* ------------- HEADER HOME --------------- */
-.header-home {
-
-}
+.header-home {}
 
 .header-home .list-nav-principal li {
   line-height: 30px;
@@ -23,21 +21,21 @@
   text-align: right;
 }
 
-.header-music .list-nav-principal li{
+.header-music .list-nav-principal li {
   display: inline-block;
 }
 
-.header-music .list-nav-redes li{
+.header-music .list-nav-redes li {
   display: inline-block;
 }
 
 .header-music nav {
-padding-top: 10px;
-padding-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .header-music nav.nav-principal {
-  background-color: rgba(255,255,255,.5);
+  background-color: rgba(255, 255, 255, .5);
 }
 
 /* --------------- HEADER CONTACT ---------- */
@@ -48,30 +46,58 @@ padding-bottom: 10px;
 .header-contact nav {
   padding-top: 10px;
   padding-bottom: 10px;
-  }
-  
+}
+
 
 .header-contact .nav-principal,
 .header-contact nav ul.list-nav-redes {
   text-align: right;
 }
 
-.header-contact .nav-principal .list-nav-principal {
-  
-}
+.header-contact .nav-principal .list-nav-principal {}
 
-.header-contact .nav-principal .list-nav-principal li{
+.header-contact .nav-principal .list-nav-principal li {
   display: inline-block;
 }
 
-.header-contact .nav-principal .list-nav-principal li a{
+.header-contact .nav-principal .list-nav-principal li a {}
 
-}
-
-.header-contact nav ul.list-nav-redes li{
+.header-contact nav ul.list-nav-redes li {
   display: inline-block;
 }
 
-.header-contact nav ul.list-nav-redes li a{
+.header-contact nav ul.list-nav-redes li a {}
 
+
+/* --------------- HEADER ABOUT ---------- */
+.header-about {
+  padding: 30px 5px 30px 5px;
 }
+
+.header-about .nav-principal {}
+
+
+.header-about ul.list-nav-principal {
+  background-color: rgba(255, 255, 255, .5);
+}
+
+.header-about ul.list-nav-principal,
+.header-about ul.list-nav-redes {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.header-about .nav-principal .list-nav-principal {}
+
+.header-about .nav-principal .list-nav-principal li {
+  display: inline-block;
+}
+
+.header-about .nav-principal .list-nav-principal li a {}
+
+.header-about nav ul.list-nav-redes li {
+  display: inline-block;
+}
+
+.header-about nav ul.list-nav-redes li a {}

@@ -1,0 +1,31 @@
+.about-body {
+  background-image: url('../images/2.jpg');
+  background-size: 71% 100%;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  margin: 0;
+}
+
+.about {
+  margin: 5px;
+}
+
+.about h1 {
+  font-size: 3rem;
+  width: 250px;
+  font-family: var(--familyRaleway);
+  font-weight: var(--espesorTitulo700);
+}
+
+.about section {
+  color: var(--colorVerdeTitulos);
+  font-weight: var(--espesorTitulo400);
+  margin: 0 0 60px 20px;
+}
+
+.about section h3.subtitle-1 {}
+
+.about section h3.subtitle-2 {}
+
+.about section p {}
