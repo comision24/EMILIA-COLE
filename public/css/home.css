@@ -9,6 +9,7 @@
   font-size: 2rem;
   font-weight: lighter;
   font-family: var(--familyWorkSans);
+  color: red;
 }
 
 .home h1 {
